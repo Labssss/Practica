@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationeryApp", "StationeryApp.csproj", "{FE2C56F0-FF09-4CC6-9BB5-FF323E3BEC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2C56F0-FF09-4CC6-9BB5-FF323E3BEC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2C56F0-FF09-4CC6-9BB5-FF323E3BEC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2C56F0-FF09-4CC6-9BB5-FF323E3BEC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2C56F0-FF09-4CC6-9BB5-FF323E3BEC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C319C00-B086-4825-B50E-0F874BB61E49}
+	EndGlobalSection
+EndGlobal
